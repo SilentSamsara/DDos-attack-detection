@@ -17,3 +17,6 @@ Ubuntu脚本文件，用于获取流量包
 
 ## work.py
 读取特征向量并判定端口流量是否异常
+
+## 3.sh
+Ubuntu脚本文件,用于按顺序执行tcpdump_start.sh、2.py、work.py，完成一次检测
